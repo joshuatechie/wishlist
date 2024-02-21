@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name>Wish Item</name>
+        <order>100</order>
+        <roles>x_snc_wishlist.wish_item_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-21 06:12:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b6da57e89f2002107f448b654124abe8</sys_id>
+        <sys_name>Wish Item</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="WishList" source="x_snc_wishlist">32c9df689f2002107f448b654124ab7c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="WishList">32c9df689f2002107f448b654124ab7c</sys_scope>
+        <sys_update_name>sys_app_application_b6da57e89f2002107f448b654124abe8</sys_update_name>
+        <title>Wish Item</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
